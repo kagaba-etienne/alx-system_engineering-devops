@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fa -A -m | sort
+ls -mpa | sort
