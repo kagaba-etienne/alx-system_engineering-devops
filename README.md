@@ -1,2 +1,1 @@
-This readme is about this shellcode
-
+This is the system engineering DevOps repo
